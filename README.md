@@ -37,7 +37,7 @@ A powerful Python tool designed to scan GitHub repositories for exposed secrets,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/github-secret-scanner.git
+git clone https://github.com/N0air/github-secret-scanner.git
 cd github-secret-scanner
 ```
 
@@ -144,6 +144,6 @@ This tool is meant for security research and identifying potential security risk
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://github.com/yourusername)
+N0air - [@N0air](https://github.com/N0air)
 
-Project Link: [https://github.com/yourusername/github-secret-scanner](https://github.com/yourusername/github-secret-scanner) 
+Project Link: [https://github.com/N0air/github-secret-scanner](https://github.com/N0air/github-secret-scanner) 
